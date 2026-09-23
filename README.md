@@ -44,12 +44,12 @@ each products across regions.
 
 ## How to Download and Use
 
-1. Download `Dashboard&report II.xlsx`.
+1. Download `https://github.com/Richard23-alt/Ziberal_excel_yearl_performance_dashboard/blob/c34554ebece8284745b2b4636dc230699b004a92/Dashboard%26report%20II.xlsx`.
 2. Open the workbook using Microsoft Excel.
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-[Download the Excel Dashboard](Dashboard&report II.xlsx)
+[Download the Excel Dashboard](https://github.com/Richard23-alt/Ziberal_excel_yearl_performance_dashboard/blob/c34554ebece8284745b2b4636dc230699b004a92/Dashboard%26report%20II.xlsx)
 
 ## Tools 
 
