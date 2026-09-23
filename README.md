@@ -36,7 +36,7 @@ each products across regions.
 
 | File | Description |
 |---|---|
-| `Dashboard&report.xlsx` | Completed Excel dashboard |
+| `Dashboard&report II.xlsx` | Completed Excel dashboard |
 | `Dashboard_screenshot.png` | Preview of the final dashboard |
 | `Data.png` | Preview of the source data |
 | `README.md` | Project documentation |
@@ -44,12 +44,12 @@ each products across regions.
 
 ## How to Download and Use
 
-1. Download `Dashboard&report.xlsx`.
+1. Download `Dashboard&report II.xlsx`.
 2. Open the workbook using Microsoft Excel.
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-[Download the Excel Dashboard](Dashboard&report.xlsx)
+[Download the Excel Dashboard](Dashboard&report II.xlsx)
 
 ## Tools 
 
